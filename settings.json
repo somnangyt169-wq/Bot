@@ -45,13 +45,12 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 300,
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "My owner is ASURA ",
+        "Can Pay for Coffee ",
       ]
     },
 
